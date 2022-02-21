@@ -1,0 +1,25 @@
+#oorgle{
+    font-size: 45px;
+    font-family: 'Festive';
+}
+
+#spanny{
+    font-size: 30px;
+    font-family: Sacramento;
+}
+
+.oorg{
+    text-align:center;
+    font-size: 40px;
+    font-family: 'Sacramento';
+}
+
+canvas{
+    text-align: center;
+    border: color #d616a4 style ridge;
+    background-image: linear-gradient(LemonChiffon, powderblue, thistle);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 480px;
+    height: 380px;
+}
